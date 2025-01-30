@@ -1,4 +1,4 @@
-package RevisaoMath_ExpressoesAritmeticas;
+package Revisao_Math_ExpressoesAritmeticas;
 
 public class Exercicios_MathAbs {
     public static void main(String[] args) {

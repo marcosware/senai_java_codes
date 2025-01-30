@@ -1,8 +1,8 @@
-package development;
+package Revisao_IfElse;
 
 import java.util.Scanner;
 
-public class RevisaoIfElse_MediaNotas {
+public class MediaNotas {
     public static void RIE_MN_01() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira a primeira nota: ");

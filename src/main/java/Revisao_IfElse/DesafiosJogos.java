@@ -1,10 +1,9 @@
-package development;
+package Revisao_IfElse;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 import java.util.Random;
 
-public class RevisaoIfElse_DesafiosJogos {
+public class DesafiosJogos {
     public static void RIE_DJ_01() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira o primeiro número: ");

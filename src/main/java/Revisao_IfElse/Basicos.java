@@ -1,9 +1,8 @@
-package development;
+package Revisao_IfElse;
 
-import javax.xml.transform.Source;
 import java.util.Scanner;
 
-public class RevisaoIfElse_Basicos {
+public class Basicos {
     public static void RIE_B_01() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira um número: ");

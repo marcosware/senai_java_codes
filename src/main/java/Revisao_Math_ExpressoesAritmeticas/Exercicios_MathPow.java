@@ -1,6 +1,4 @@
-package RevisaoMath_ExpressoesAritmeticas;
-
-import java.sql.SQLOutput;
+package Revisao_Math_ExpressoesAritmeticas;
 
 public class Exercicios_MathPow {
     public static void main(String[] args) {

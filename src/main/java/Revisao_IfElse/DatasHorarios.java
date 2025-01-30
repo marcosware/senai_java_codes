@@ -1,9 +1,8 @@
-package development;
+package Revisao_IfElse;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class RevisaoIfElse_DatasHorarios {
+public class DatasHorarios {
     public static void RIE_DH_01() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira um horário (HH:MM): ");

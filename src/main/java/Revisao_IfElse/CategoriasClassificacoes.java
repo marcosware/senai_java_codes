@@ -1,8 +1,8 @@
-package development;
+package Revisao_IfElse;
 
 import java.util.Scanner;
 
-public class RevisaoIfElse_CategoriasClassificacoes {
+public class CategoriasClassificacoes {
     public static void RIE_CC_01() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira a idade: ");

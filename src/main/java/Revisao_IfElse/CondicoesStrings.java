@@ -1,8 +1,8 @@
-package development;
+package Revisao_IfElse;
 
 import java.util.Scanner;
 
-public class RevisaoIfElse_CondicoesStrings {
+public class CondicoesStrings {
     public static void RIE_CS_01() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira SIM ou NÃO: ");

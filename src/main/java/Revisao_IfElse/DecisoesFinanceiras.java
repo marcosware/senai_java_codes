@@ -1,8 +1,8 @@
-package development;
+package Revisao_IfElse;
 
 import java.util.Scanner;
 
-public class RevisaoIfElse_DecisoesFinanceiras {
+public class DecisoesFinanceiras {
     public static void RIE_DF_01() {
         Scanner sc = new Scanner(System.in);
         float balance = 2000;

@@ -1,9 +1,8 @@
-package development;
+package Revisao_IfElse;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class RevisaoIfElse_OperacoesMatematicas {
+public class OperacoesMatematicas {
     public static void RIE_OM_01() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira o primeiro número: ");

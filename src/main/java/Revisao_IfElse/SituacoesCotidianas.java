@@ -1,8 +1,8 @@
-package development;
+package Revisao_IfElse;
 
 import java.util.Scanner;
 
-public class RevisaoIfElse_SituacoesCotidianas {
+public class SituacoesCotidianas {
     public static void RIE_SC_01() {
         Scanner sc = new Scanner(System.in);
         String plate = "default";
