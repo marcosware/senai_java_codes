@@ -41,7 +41,7 @@ public class RevisaoIfElse_CategoriasClassificacoes {
         }
     }
 
-    public static void RIE_CC_03(String[] args) {
+    public static void RIE_CC_03() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira uma altura: ");
         float height = sc.nextFloat();
@@ -57,7 +57,7 @@ public class RevisaoIfElse_CategoriasClassificacoes {
         }
     }
 
-    public static void RIE_CC_04(String[] args) {
+    public static void RIE_CC_04() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira a pressão arterial sistólica: ");
         int pressureA = sc.nextInt();
@@ -75,19 +75,51 @@ public class RevisaoIfElse_CategoriasClassificacoes {
         }
     }
 
-    public static void RIE_CC_05(String[] args) {
+    public static void RIE_CC_05() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira uma temperatura: ");
         float temperature = sc.nextFloat();
         System.out.print("Ambiente: ");
         if (temperature < 20) {
             System.out.print("Frio");
-        }
-        else if(temperature < 30) {
+        } else if (temperature < 30) {
             System.out.print("Agradável");
-        }
-        else{
+        } else {
             System.out.print("Quente");
         }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite a atividade que deseja executar");
+        System.out.println("01 - Classificação de pessoa por idade.");
+        System.out.println("02 - Faixa de classificação de um número.");
+        System.out.println("03 - Classificação da altura da pessoa.");
+        System.out.println("04 - Nível de risco por pressão arterial.");
+        System.out.println("05 - Classificação de temperatura.");
+        System.out.println("OPÇÃO: ");
+        int option = sc.nextInt();
+        switch (option) {
+            case 1:
+                RIE_CC_01();
+                break;
+            case 2:
+                RIE_CC_02();
+                break;
+            case 3:
+                RIE_CC_03();
+                break;
+            case 4:
+                RIE_CC_04();
+                break;
+            case 5:
+                RIE_CC_05();
+                break;
+            default:
+                System.out.println("Opção inválida.");
+                break;
+            }
+            System.out.println("Obrigado por testar o programa!");
+            sc.close();
     }
 }

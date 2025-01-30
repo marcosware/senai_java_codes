@@ -3,7 +3,7 @@ package development;
 import java.util.Scanner;
 
 public class RevisaoIfElse_SituacoesCotidianas {
-    public static void RIE_01_SC(String[] args) {
+    public static void RIE_SC_01() {
         Scanner sc = new Scanner(System.in);
         String plate = "default";
         while(plate.length() != 8) {
@@ -24,7 +24,7 @@ public class RevisaoIfElse_SituacoesCotidianas {
         }
     }
 
-    public static void RIE_02_SC(String[] args) {
+    public static void RIE_SC_02() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira o código de acesso: ");
         int code = sc.nextInt();
@@ -35,7 +35,7 @@ public class RevisaoIfElse_SituacoesCotidianas {
         System.out.print("CORRETO.");
     }
 
-    public static void RIE_03_SC(String[] args) {
+    public static void RIE_SC_03() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira a temperatura em Graus Celsius: ");
         double celsius = sc.nextDouble();
@@ -56,7 +56,7 @@ public class RevisaoIfElse_SituacoesCotidianas {
         }
     }
 
-    public static void RIE_04_SC(String[] args) {
+    public static void RIE_SC_04() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira a idade: ");
         int age = sc.nextInt();
@@ -69,7 +69,7 @@ public class RevisaoIfElse_SituacoesCotidianas {
         System.out.print("está apta para doar sangue.");
     }
 
-    public static void RIE_05_SC(String[] args) {
+    public static void RIE_SC_05() {
         Scanner sc = new Scanner(System.in);
         System.out.print("USUÁRIO: ");
         String user = sc.nextLine();
@@ -86,5 +86,39 @@ public class RevisaoIfElse_SituacoesCotidianas {
         else {
             System.out.println("Usuário não cadastrado.");
         }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite a atividade que deseja executar");
+        System.out.println("01 - Veículo no pedágio por placa.");
+        System.out.println("02 - Número correspondente ao código de acesso.");
+        System.out.println("03 - Conversor de temperatura.");
+        System.out.println("04 - Aptidão para doação sangue");
+        System.out.println("05 - Sistema simples de autenticação.");
+        System.out.println("OPÇÃO: ");
+        int option = sc.nextInt();
+        switch (option){
+            case 1:
+                RIE_SC_01();
+                break;
+            case 2:
+                RIE_SC_02();
+                break;
+            case 3:
+                RIE_SC_03();
+                break;
+            case 4:
+                RIE_SC_04();
+                break;
+            case 5:
+                RIE_SC_05();
+                break;
+            default:
+                System.out.println("Opção inválida.");
+                break;
+        }
+        System.out.println("Obrigado por testar o programa!");
+        sc.close();
     }
 }

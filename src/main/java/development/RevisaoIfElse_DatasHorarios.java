@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class RevisaoIfElse_DatasHorarios {
-    public static void RIE_DH_01(String[] args) {
+    public static void RIE_DH_01() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira um horário (HH:MM): ");
         String time = sc.nextLine();
@@ -18,7 +18,7 @@ public class RevisaoIfElse_DatasHorarios {
         System.out.print(" é válido.");
     }
 
-    public static void RIE_DH_02(String[] args) {
+    public static void RIE_DH_02() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira um mês: ");
         int month = sc.nextInt();
@@ -29,7 +29,7 @@ public class RevisaoIfElse_DatasHorarios {
         System.out.print(" é válido.");
     }
 
-    public static void RIE_DH_03(String[] args) {
+    public static void RIE_DH_03() {
         int[] days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira um mês: ");
@@ -43,7 +43,7 @@ public class RevisaoIfElse_DatasHorarios {
         System.out.print(" é válido.");
     }
 
-    public static void RIE_DH_04(String[] args) {
+    public static void RIE_DH_04() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira um horário (HH:MM): ");
         String time = sc.nextLine();
@@ -61,7 +61,7 @@ public class RevisaoIfElse_DatasHorarios {
         }
     }
 
-    public static void RIE_DH_05(String[] args) {
+    public static void RIE_DH_05() {
         Scanner sc = new Scanner(System.in);
         String[] dd_mm_aa;
         boolean valid = false;
@@ -107,5 +107,39 @@ public class RevisaoIfElse_DatasHorarios {
             System.out.print("não ");
         }
         System.out.print("está no período inserido.");
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite a atividade que deseja executar");
+        System.out.println("01 - Horário válido (24 horas).");
+        System.out.println("02 - Mês válido.");
+        System.out.println("03 - Dia do mês válido.");
+        System.out.println("04 - Período de um horário.");
+        System.out.println("05 - Data dentro de um período específico.");
+        System.out.println("OPÇÃO: ");
+        int option = sc.nextInt();
+        switch (option){
+            case 1:
+                RIE_DH_01();
+                break;
+            case 2:
+                RIE_DH_02();
+                break;
+            case 3:
+                RIE_DH_03();
+                break;
+            case 4:
+                RIE_DH_04();
+                break;
+            case 5:
+                RIE_DH_05();
+                break;
+            default:
+                System.out.println("Opção inválida.");
+                break;
+        }
+        System.out.println("Obrigado por testar o programa!");
+        sc.close();
     }
 }

@@ -3,7 +3,7 @@ package development;
 import java.util.Scanner;
 
 public class RevisaoIfElse_DecisoesFinanceiras {
-    public static void RIE_DF_01(String[] args) {
+    public static void RIE_DF_01() {
         Scanner sc = new Scanner(System.in);
         float balance = 2000;
         System.out.println("SALDO: R$" + balance);
@@ -19,7 +19,7 @@ public class RevisaoIfElse_DecisoesFinanceiras {
         }
     }
 
-    public static void RIE_DF_02(String[] args) {
+    public static void RIE_DF_02() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira o valor total da compra: ");
         float purchase = sc.nextFloat();
@@ -30,7 +30,7 @@ public class RevisaoIfElse_DecisoesFinanceiras {
         System.out.printf("Valor total: R$%.2f", purchase);
     }
 
-    public static void RIE_DF_03(String[] args) {
+    public static void RIE_DF_03() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira seu salário: ");
         float wage = sc.nextFloat();
@@ -41,7 +41,7 @@ public class RevisaoIfElse_DecisoesFinanceiras {
         System.out.print("pode financiar um imóvel.");
     }
 
-    public static void RIE_DF_04(String[] args) {
+    public static void RIE_DF_04() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira seu salário: ");
         float wage = sc.nextFloat();
@@ -56,7 +56,7 @@ public class RevisaoIfElse_DecisoesFinanceiras {
         System.out.print("pode comprar este produto parcelado.");
     }
 
-    public static void RIE_DF_05(String[] args) {
+    public static void RIE_DF_05() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira o valor da compra: ");
         float purchase = sc.nextFloat();
@@ -65,5 +65,39 @@ public class RevisaoIfElse_DecisoesFinanceiras {
             System.out.print("não ");
         }
         System.out.print("atingiu o valor mínimo de compra para ganhar um brinde!");
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite a atividade que deseja executar");
+        System.out.println("01 - Saldo suficiente para saque.");
+        System.out.println("02 - Cálculo de desconto em uma compra.");
+        System.out.println("03 - Pessoa pode financiar imóvel.");
+        System.out.println("04 - Pessoa pode comprar produto parcelado.");
+        System.out.println("05 - Brinde do cliente por valor mínimo.");
+        System.out.println("OPÇÃO: ");
+        int option = sc.nextInt();
+        switch (option){
+            case 1:
+                RIE_DF_01();
+                break;
+            case 2:
+                RIE_DF_02();
+                break;
+            case 3:
+                RIE_DF_03();
+                break;
+            case 4:
+                RIE_DF_04();
+                break;
+            case 5:
+                RIE_DF_05();
+                break;
+            default:
+                System.out.println("Opção inválida.");
+                break;
+        }
+        System.out.println("Obrigado por testar o programa!");
+        sc.close();
     }
 }

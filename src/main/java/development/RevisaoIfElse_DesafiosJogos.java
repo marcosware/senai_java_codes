@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class RevisaoIfElse_DesafiosJogos {
-    public static void RIE_DJ_01(String[] args) {
+    public static void RIE_DJ_01() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira o primeiro número: ");
         int numA = sc.nextInt();
@@ -22,7 +22,7 @@ public class RevisaoIfElse_DesafiosJogos {
         }
     }
 
-    public static void RIE_DJ_02(String[] args) {
+    public static void RIE_DJ_02() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira o primeiro número: ");
         int numA = sc.nextInt();
@@ -39,7 +39,7 @@ public class RevisaoIfElse_DesafiosJogos {
         }
     }
 
-    public static void RIE_DJ_03(String[] args) {
+    public static void RIE_DJ_03() {
         Scanner sc = new Scanner(System.in);
         Random rand = new Random();
         int drawn = rand.nextInt(5);
@@ -54,7 +54,7 @@ public class RevisaoIfElse_DesafiosJogos {
         }
     }
 
-    public static void RIE_DJ_04(String[] args) {
+    public static void RIE_DJ_04() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Insira o primeiro número: ");
         int numA = sc.nextInt();
@@ -93,7 +93,7 @@ public class RevisaoIfElse_DesafiosJogos {
         System.out.print(lesser + ", " + middle + ", " + higher);
     }
 
-    public static void RIE_DJ_05(String[] args) {
+    public static void RIE_DJ_05() {
         Scanner sc = new Scanner(System.in);
         Random rand = new Random();
         int drawn = rand.nextInt(10);
@@ -106,5 +106,39 @@ public class RevisaoIfElse_DesafiosJogos {
         else {
             System.out.println("Sinto muito. Você errou.");
         }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite a atividade que deseja executar");
+        System.out.println("01 - Ambos números positivos ou negativos.");
+        System.out.println("02 - Número dobro do outro.");
+        System.out.println("03 - Jogo de adivinhação com número secreto.");
+        System.out.println("04 - Ordem crescente de três números.");
+        System.out.println("05 - Número sorteado de 1 a 10.");
+        System.out.println("OPÇÃO: ");
+        int option = sc.nextInt();
+        switch (option){
+            case 1:
+                RIE_DJ_01();
+                break;
+            case 2:
+                RIE_DJ_02();
+                break;
+            case 3:
+                RIE_DJ_03();
+                break;
+            case 4:
+                RIE_DJ_04();
+                break;
+            case 5:
+                RIE_DJ_05();
+                break;
+            default:
+                System.out.println("Opção inválida.");
+                break;
+        }
+        System.out.println("Obrigado por testar o programa!");
+        sc.close();
     }
 }
