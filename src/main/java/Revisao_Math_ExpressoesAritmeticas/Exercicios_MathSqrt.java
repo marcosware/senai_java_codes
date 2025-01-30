@@ -1,5 +1,7 @@
 package Revisao_Math_ExpressoesAritmeticas;
 
+import java.util.Locale;
+
 public class Exercicios_MathSqrt {
 
     public static void CalcPrint(double rooting, int decimalCases) {
@@ -20,6 +22,7 @@ public class Exercicios_MathSqrt {
     }
 
     public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
         System.out.println("EXERCÍCIOS PARA MATH.SQRT\n");
         System.out.println("1. Calcule a raiz quadrada de 16.");
         CalcPrint(16, 0);

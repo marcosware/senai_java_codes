@@ -1,7 +1,10 @@
 package Revisao_Math_ExpressoesAritmeticas;
 
+import java.util.Locale;
+
 public class Exercicios_MathPow {
     public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
         System.out.println("EXERCÍCIOS PARA MATH.POW\n");
         System.out.println("1. Calcule 2 elevado a 3.");
         System.out.printf("Resultado: %.0f\n\n", Math.pow(2, 3));
