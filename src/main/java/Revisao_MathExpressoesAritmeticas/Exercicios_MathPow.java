@@ -1,4 +1,4 @@
-package Revisao_Math_ExpressoesAritmeticas;
+package Revisao_MathExpressoesAritmeticas;
 
 import java.util.Locale;
 
@@ -8,6 +8,7 @@ public class Exercicios_MathPow {
         System.out.println("EXERCÍCIOS PARA MATH.POW\n");
         System.out.println("1. Calcule 2 elevado a 3.");
         System.out.printf("Resultado: %.0f\n\n", Math.pow(2, 3));
+
         System.out.println("2. Encontre o valor de 5^2.");
         System.out.printf("Resultado: %.0f\n\n", Math.pow(5, 2));
         System.out.println("3. Qual é o resultado de 10^0?");

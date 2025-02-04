@@ -1,4 +1,4 @@
-package Revisao_Math_ExpressoesAritmeticas;
+package Revisao_MathExpressoesAritmeticas;
 
 import java.util.Locale;
 
