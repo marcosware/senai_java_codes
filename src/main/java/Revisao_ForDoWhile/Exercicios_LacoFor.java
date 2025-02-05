@@ -292,19 +292,17 @@ public class Exercicios_LacoFor {
             System.out.print("Digite o " + (i+1) + "º valor do vetor: ");
             nums[i] = sc.nextInt();
         }
-        int min, aux, pos;
+        int min, aux;
         for(int i = 0; i < nums.length; i++) {
-            min = nums[i];
-            pos = i;
-            for(int j = i; j < nums.length; j++) {
-                if(nums[j] < min) {
-                    min = nums[j];
-                    pos = j;
+            min = i;
+            for(int j = (i+1); j < nums.length; j++) {
+                if(nums[j] < nums[min]) {
+                    min = j;
                 }
             }
             aux = nums[i];
-            nums[i] = min;
-            nums[pos] = aux;
+            nums[i] = nums[min];
+            nums[min] = aux;
         }
         System.out.print("[ ");
         for(int i = 0; i < nums.length; i++) {
