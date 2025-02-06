@@ -143,10 +143,7 @@ public class Exercicios_CondicaoTernaria {
         Scanner sc = new Scanner(System.in);
         System.out.print("Bool (0/1): ");
         int num = sc.nextInt();
-        boolean bool = false;
-        if(num != 0) {
-            bool = true;
-        }
+        boolean bool = num != 0;
         String boolToString = (bool) ? "Sim" : "Não";
         System.out.println(boolToString);
     }
@@ -240,8 +237,12 @@ public class Exercicios_CondicaoTernaria {
 
     public static void RT_CT_25() {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Dia da Semana:\n" +
-                "1 - Dom | 5 - Qui\n2 - Seg | 6 - Sex\n3 - Ter | 7 - Sab\n4 - Qua | OPT: ");
+        System.out.print("""
+                Dia da Semana:
+                1 - Dom | 5 - Qui
+                2 - Seg | 6 - Sex
+                3 - Ter | 7 - Sab
+                4 - Qua | OPT:\s""");
         int day = sc.nextInt();
         if(day < 1 || day > 7) {
             System.out.println("Resposta inválida");
