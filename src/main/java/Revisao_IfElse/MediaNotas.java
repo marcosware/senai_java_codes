@@ -100,26 +100,26 @@ public class MediaNotas {
 
     public static void RIE_MN_05() {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Insira a primeira nota (Disciplina A): ");
+        System.out.print("Insira a primeira nota (Disciplina A): ");
         float gradeA = sc.nextFloat();
-        System.out.println("Insira a segunda nota (Disciplina A): ");
+        System.out.print("Insira a segunda nota (Disciplina A): ");
         float gradeB = sc.nextFloat();
-        System.out.println("Insira a primeira nota (Disciplina B): ");
+        System.out.print("Insira a primeira nota (Disciplina B): ");
         float gradeC = sc.nextFloat();
-        System.out.println("Insira a segunda nota (Disciplina B): ");
+        System.out.print("Insira a segunda nota (Disciplina B): ");
         float gradeD = sc.nextFloat();
         float avgGradeA = ((gradeA + gradeB) / 2);
         float avgGradeB = ((gradeC + gradeD) / 2);
-        System.out.println("O aluno ");
+        System.out.print("\nO aluno ");
         if (avgGradeA < 7) {
             System.out.print("não ");
         }
-        System.out.print("foi aprovado na Disciplina A.");
-        System.out.println("O aluno ");
+        System.out.println("foi aprovado na Disciplina A.");
+        System.out.print("O aluno ");
         if (avgGradeB < 7) {
             System.out.print("não ");
         }
-        System.out.print("foi aprovado na Disciplina B.");
+        System.out.println("foi aprovado na Disciplina B.");
         sc.close();
     }
 
