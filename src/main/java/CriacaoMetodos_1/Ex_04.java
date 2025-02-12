@@ -3,6 +3,8 @@ package CriacaoMetodos_1;
 import java.util.Scanner;
 
 public class Ex_04 {
+    // Referente à If Else Operações Matemáticas - 05. Quadrados Perfeitos
+
     public static float readFloat() {
         Scanner sc = new Scanner(System.in);
         return sc.nextFloat();
