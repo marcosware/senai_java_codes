@@ -3,6 +3,7 @@ package CriacaoMetodos_1;
 import java.util.Scanner;
 
 public class Ex_05 {
+    // Referente à If Else Média e Notas - 05. Aprovação em Duas Disciplinas
 
     public static int readInt() {
         Scanner sc = new Scanner(System.in);
@@ -14,17 +15,19 @@ public class Ex_05 {
         for(int i = 0; i < exponent; i++) {
             power *= base;
         }
-        System.out.println("\nPower: " + power);
         return power;
     }
 
     public static float sqrt(float radicand, int index) {
-        float i = 0;
-        while(radicand > 1) {
-            radicand /= index;
+        float sqrt = 1;
+        int i = 0;
+        while(sqrt != radicand && i < radicand/2) {
+            sqrt = 1;
             i++;
+            for(int j = 0; j < index; j++) {
+                sqrt *= i;
+            }
         }
-        System.out.println("\nSqrt: " + i);
         return i;
     }
 
