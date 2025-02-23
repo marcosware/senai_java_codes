@@ -88,7 +88,8 @@ public class DatasHorarios {
 
         System.out.print("A data ");
         if (yearCheck >= yearStart && yearCheck <= yearEnd) {
-            if (monthCheck >= monthStart && monthCheck <= monthEnd) {
+            if ((monthCheck >= monthStart && monthCheck <= monthEnd)
+            || (monthCheck > monthEnd && yearCheck < yearEnd)) {
                 if (monthCheck == monthStart && dayCheck >= dayStart) {
                     valid = true;
                 }
@@ -105,7 +106,7 @@ public class DatasHorarios {
         if(!valid) {
             System.out.print("não ");
         }
-        System.out.print("está no período inserido.");
+        System.out.println("está no período inserido.");
     }
 
     public static void main(String[] args) {
