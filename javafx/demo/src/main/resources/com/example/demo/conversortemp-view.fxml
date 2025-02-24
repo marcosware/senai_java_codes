@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox alignment="CENTER" prefHeight="375.0" prefWidth="286.0" spacing="20.0" style="-fx-background-color: black; -fx-border-color: #b500ff; -fx-border-width: 2;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.ConversorTempController">
+<VBox alignment="CENTER" prefHeight="458.0" prefWidth="288.0" spacing="20.0" style="-fx-background-color: black; -fx-border-color: #b500ff; -fx-border-width: 2;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.ConversorTempController">
   <padding>
     <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
   </padding>
