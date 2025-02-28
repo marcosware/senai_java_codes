@@ -11,6 +11,7 @@ public class EntregaApplication extends Application {
 
     @Override
     public void start(Stage primaryStage) {
+        Product[] productList = new Product[10];
 
     }
 }

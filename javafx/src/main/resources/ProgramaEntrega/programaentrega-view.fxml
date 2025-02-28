@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 
-
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ProgramaEntrega.EntregaController">
    <children>
-      <ImageView fitHeight="120.0" fitWidth="148.0" layoutX="14.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="120.0" fitWidth="148.0" layoutX="102.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@images/package-tracking.png" />
          </image>
       </ImageView>
+      <Button fx:id="generateBtn" layoutX="91.0" layoutY="151.0" mnemonicParsing="false" text="Gerar pedido aleatório" />
+      <Button fx:id="trackBtn" layoutX="132.0" layoutY="303.0" mnemonicParsing="false" text="Rastrear" />
+      <TextField fx:id="inputField" layoutX="88.0" layoutY="257.0" />
+      <Label fx:id="outputField" layoutX="300.0" layoutY="119.0" prefHeight="225.0" prefWidth="227.0" style="-fx-border-color: black; -fx-background-color: silver; -fx-border-width: 2;" />
+      <Label layoutX="300.0" layoutY="84.0" text="Resultado" />
+      <Label layoutX="88.0" layoutY="232.0" text="Código de Rastreio" />
    </children>
 </AnchorPane>
