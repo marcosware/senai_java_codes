@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d1f8e99-7799-485d-aa5a-899d0d94302b" name="Changes" comment="Ex05 completion">
+      <change afterPath="$PROJECT_DIR$/java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/java/com/example/demo/ParImparApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/java/com/example/demo/ParImparController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/resources/com/example/demo/conversortemp-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/resources/com/example/demo/parimpar-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EAD_ListasMatrizesForEach/Exercicios_ListasMatrizesForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/EAD_ListasMatrizesForEach/Exercicios_ListasMatrizesForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExercicioFixacao/EstruturaSequencial.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/ExercicioFixacao/EstruturaSequencial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_ForDoWhile/Exercicios_LacoDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_ForDoWhile/Exercicios_LacoDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_ForDoWhile/Exercicios_LacoFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_ForDoWhile/Exercicios_LacoFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/Basicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/Basicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/CategoriasClassificacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/CategoriasClassificacoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/CondicoesStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/CondicoesStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/DatasHorarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/DatasHorarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/DecisoesFinanceiras.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/DecisoesFinanceiras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/DesafiosJogos.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/DesafiosJogos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/MediaNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/MediaNotas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/OperacoesMatematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/OperacoesMatematicas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/SituacoesCotidianas.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/SituacoesCotidianas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_ExpressoesAritmeticas.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_ExpressoesAritmeticas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathAbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathAbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathPow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathSqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathSqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_Ternaria/Exercicios_CondicaoTernaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_Ternaria/Exercicios_CondicaoTernaria.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;marcosware&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/marcosware/senai_java_codes&quot;,
+    &quot;accountId&quot;: &quot;6d86bd76-5712-4294-b9f2-aa628b6154a2&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sELQ45brVGc7fNAFSKLwFe2nLd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DatasHorarios.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_CondicaoTernaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_LacoDoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_ListasMatrizesForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParImparApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_Basicos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_CondicoesStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_DatasHorarios.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_DecisoesFinanceiras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_DesafiosJogos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_MediaNotas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_OperacoesMatematicas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_SituacoesCotidianas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marcos/IdeaProjects/JavaNoite_Marcos/javafx&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aluno_Noite/IdeaProjects/JavaNoite_Marcos/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marcos\IdeaProjects\JavaNoite_Marcos\java" />
+      <recent name="C:\Users\Marcos\IdeaProjects\JavaNoite_Marcos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d1f8e99-7799-485d-aa5a-899d0d94302b" name="Changes" comment="" />
+      <created>1738015767270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738015767270</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1738108412570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738108412570</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1738108719491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738108719491</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second half upload">
+      <option name="closed" value="true" />
+      <created>1738223838542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738223838542</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Option menu added">
+      <option name="closed" value="true" />
+      <created>1738225360116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738225360116</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Renaming files and folders">
+      <option name="closed" value="true" />
+      <created>1738225565610</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738225565610</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Deleting org folder">
+      <option name="closed" value="true" />
+      <created>1738225640005</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738225640005</updated>
+    </task>
+    <task id="LOCAL-00007" summary="README description added">
+      <option name="closed" value="true" />
+      <created>1738225738213</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738225738213</updated>
+    </task>
+    <task id="LOCAL-00008" summary="README linebreak added">
+      <option name="closed" value="true" />
+      <created>1738225779330</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738225779331</updated>
+    </task>
+    <task id="LOCAL-00009" summary="49 do while exercises done">
+      <option name="closed" value="true" />
+      <created>1738785248846</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738785248846</updated>
+    </task>
+    <task id="LOCAL-00010" summary="30 arrays and for each">
+      <option name="closed" value="true" />
+      <created>1740324625128</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740324625128</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Data check correction">
+      <option name="closed" value="true" />
+      <created>1740328732978</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740328732978</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Date empty constructor added">
+      <option name="closed" value="true" />
+      <created>1740331423803</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740331423803</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ex04 interval completion">
+      <option name="closed" value="true" />
+      <created>1740331470960</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740331470960</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Ex05 completion">
+      <option name="closed" value="true" />
+      <created>1740331491282</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740331491282</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Second half upload" />
+    <MESSAGE value="Option menu added" />
+    <MESSAGE value="Renaming files and folders" />
+    <MESSAGE value="Deleting org folder" />
+    <MESSAGE value="README description added" />
+    <MESSAGE value="README linebreak added" />
+    <MESSAGE value="49 do while exercises done" />
+    <MESSAGE value="30 arrays and for each" />
+    <MESSAGE value="Data check correction" />
+    <MESSAGE value="Date empty constructor added" />
+    <MESSAGE value="Ex04 interval completion" />
+    <MESSAGE value="Ex05 completion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex05 completion" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
