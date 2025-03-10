@@ -5,57 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d1f8e99-7799-485d-aa5a-899d0d94302b" name="Changes" comment="Ex05 completion">
-      <change afterPath="$PROJECT_DIR$/java/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/java/com/example/demo/ParImparApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/java/com/example/demo/ParImparController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/resources/com/example/demo/conversortemp-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/demo/src/main/resources/com/example/demo/parimpar-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_1/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_1/Ex_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CriacaoMetodos_2/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/CriacaoMetodos_2/Ex_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EAD_ListasMatrizesForEach/Exercicios_ListasMatrizesForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/EAD_ListasMatrizesForEach/Exercicios_ListasMatrizesForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExercicioFixacao/EstruturaSequencial.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/ExercicioFixacao/EstruturaSequencial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_ForDoWhile/Exercicios_LacoDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_ForDoWhile/Exercicios_LacoDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_ForDoWhile/Exercicios_LacoFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_ForDoWhile/Exercicios_LacoFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/Basicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/Basicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/CategoriasClassificacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/CategoriasClassificacoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/CondicoesStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/CondicoesStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/DatasHorarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/DatasHorarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/DecisoesFinanceiras.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/DecisoesFinanceiras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/DesafiosJogos.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/DesafiosJogos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/MediaNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/MediaNotas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/OperacoesMatematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/OperacoesMatematicas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_IfElse/SituacoesCotidianas.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_IfElse/SituacoesCotidianas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_ExpressoesAritmeticas.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_ExpressoesAritmeticas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathAbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathAbs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathPow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathSqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_MathExpressoesAritmeticas/Exercicios_MathSqrt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Revisao_Ternaria/Exercicios_CondicaoTernaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Revisao_Ternaria/Exercicios_CondicaoTernaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,39 +58,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DatasHorarios.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios_CondicaoTernaria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios_LacoDoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios_ListasMatrizesForEach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParImparApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_Basicos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_CondicoesStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_DatasHorarios.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_DecisoesFinanceiras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_DesafiosJogos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_MediaNotas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_OperacoesMatematicas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_SituacoesCotidianas.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marcos/IdeaProjects/JavaNoite_Marcos/javafx&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aluno_Noite/IdeaProjects/JavaNoite_Marcos/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DatasHorarios.executor": "Run",
+    "Application.Ex_04.executor": "Run",
+    "Application.Ex_05.executor": "Run",
+    "Application.Exercicio01.executor": "Run",
+    "Application.Exercicio02.executor": "Run",
+    "Application.Exercicio03.executor": "Run",
+    "Application.Exercicios_CondicaoTernaria.executor": "Run",
+    "Application.Exercicios_LacoDoWhile.executor": "Run",
+    "Application.Exercicios_ListasMatrizesForEach.executor": "Run",
+    "Application.ParImparApplication.executor": "Run",
+    "Application.RevisaoIfElse_01.executor": "Run",
+    "Application.RevisaoIfElse_03.executor": "Run",
+    "Application.RevisaoIfElse_04.executor": "Run",
+    "Application.RevisaoIfElse_05.executor": "Run",
+    "Application.RevisaoIfElse_06.executor": "Run",
+    "Application.RevisaoIfElse_08.executor": "Run",
+    "Application.RevisaoIfElse_09.executor": "Run",
+    "Application.RevisaoIfElse_Basicos.executor": "Run",
+    "Application.RevisaoIfElse_CondicoesStrings.executor": "Run",
+    "Application.RevisaoIfElse_DatasHorarios.executor": "Run",
+    "Application.RevisaoIfElse_DecisoesFinanceiras.executor": "Run",
+    "Application.RevisaoIfElse_DesafiosJogos.executor": "Run",
+    "Application.RevisaoIfElse_MediaNotas.executor": "Run",
+    "Application.RevisaoIfElse_OperacoesMatematicas.executor": "Run",
+    "Application.RevisaoIfElse_SituacoesCotidianas.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Marcos/IdeaProjects/JavaNoite_Marcos/javafx",
+    "onboarding.tips.debug.path": "C:/Users/Aluno_Noite/IdeaProjects/JavaNoite_Marcos/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Marcos\IdeaProjects\JavaNoite_Marcos\java" />
