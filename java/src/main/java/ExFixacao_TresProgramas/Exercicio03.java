@@ -1,4 +1,4 @@
-package ExFixacao_CAMME;
+package ExFixacao_TresProgramas;
 
 import java.util.Locale;
 import java.util.Scanner;

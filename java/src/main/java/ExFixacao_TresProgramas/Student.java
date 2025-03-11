@@ -1,4 +1,4 @@
-package ExFixacao_CAMME;
+package ExFixacao_TresProgramas;
 
 public class Student {
     String name;

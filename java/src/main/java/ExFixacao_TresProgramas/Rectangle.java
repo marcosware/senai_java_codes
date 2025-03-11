@@ -1,4 +1,4 @@
-package ExFixacao_CAMME;
+package ExFixacao_TresProgramas;
 
 public class Rectangle {
     double width;
