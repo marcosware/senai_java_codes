@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d1f8e99-7799-485d-aa5a-899d0d94302b" name="Changes" comment="Ex05 completion">
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Exercicio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Exercicio02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/ExFixacao_CAMME/Student.java" afterDir="false" />
+    <list default="true" id="3d1f8e99-7799-485d-aa5a-899d0d94302b" name="Changes" comment="Get Set initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +44,12 @@
     &quot;assignee&quot;: &quot;marcosware&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/marcosware/senai_java_codes&quot;,
-    &quot;accountId&quot;: &quot;6d86bd76-5712-4294-b9f2-aa628b6154a2&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/marcosware/senai_java_codes",
+    "accountId": "cf3afc25-1a35-4771-baa0-52f63403997c"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -87,9 +91,10 @@
     "Application.RevisaoIfElse_SituacoesCotidianas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Marcos/IdeaProjects/JavaNoite_Marcos/javafx",
+    "last_opened_file_path": "C:/Users/Aluno_Noite/Documents/JavaNoite_Marcos/senai_java_codes",
     "onboarding.tips.debug.path": "C:/Users/Aluno_Noite/IdeaProjects/JavaNoite_Marcos/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
@@ -221,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740331491282</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Renaming folder">
+      <option name="closed" value="true" />
+      <created>1741730996682</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1741730996682</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +262,9 @@
     <MESSAGE value="Date empty constructor added" />
     <MESSAGE value="Ex04 interval completion" />
     <MESSAGE value="Ex05 completion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex05 completion" />
+    <MESSAGE value="Renaming folder" />
+    <MESSAGE value="Get Set initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get Set initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
