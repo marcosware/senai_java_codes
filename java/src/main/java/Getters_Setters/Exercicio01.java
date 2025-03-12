@@ -13,5 +13,6 @@ public class Exercicio01 {
         System.out.println("\nCadastrado com sucesso!");
         System.out.println("Nome: " + pessoa.getNome());
         System.out.println("Idade: " + pessoa.getIdade());
+        sc.close();
     }
 }
