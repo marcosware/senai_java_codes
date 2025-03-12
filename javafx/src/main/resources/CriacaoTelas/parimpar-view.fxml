@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="215.0" prefWidth="213.0" spacing="20.0" style="-fx-background-color: gray;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CriacaoTelas.ParImparController">
+  <padding>
+    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+  </padding>
+   <Label text="Insira um número:">
+      <font>
+         <Font size="20.0" />
+      </font></Label>
+   <TextField fx:id="inputField" alignment="CENTER" prefHeight="69.0" prefWidth="78.0">
+      <font>
+         <Font size="32.0" />
+      </font></TextField>
+  <Button onAction="#onRunButtonClick" prefHeight="25.0" prefWidth="95.0" text="Executar">
+      <font>
+         <Font name="System Bold" size="12.0" />
+      </font></Button>
+
+  <Label fx:id="resultText" textFill="RED">
+      <font>
+         <Font size="22.0" />
+      </font></Label>
+   <effect>
+      <DropShadow height="93" radius="43" width="73" />
+   </effect>
+</VBox>
