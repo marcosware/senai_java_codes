@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox alignment="CENTER" prefHeight="458.0" prefWidth="288.0" spacing="20.0" style="-fx-background-color: black; -fx-border-color: #b500ff; -fx-border-width: 2;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CriacaoTelas.ConversorTempController">
+<VBox alignment="CENTER" prefHeight="458.0" prefWidth="288.0" spacing="20.0" style="-fx-background-color: #49424B; -fx-border-color: #6E5375; -fx-border-width: 2;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CriacaoTelas.ConversorTempController">
   <padding>
     <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
   </padding>
@@ -18,7 +18,7 @@
       <font>
          <Font size="20.0" />
       </font></Label>
-   <TextField fx:id="inputField" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="123.0" style="-fx-background-color: black; -fx-border-color: #b500ff; -fx-border-width: 2; -fx-text-fill: white;">
+   <TextField fx:id="inputField" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="123.0" style="-fx-background-color: #302733; -fx-border-color: #6E5375; -fx-border-width: 2; -fx-text-fill: white;">
       <font>
          <Font size="32.0" />
       </font></TextField>
@@ -37,11 +37,11 @@
       </padding>
    </RadioButton>
 
-  <Label fx:id="resultText" textFill="RED">
+  <Label fx:id="resultText" textFill="#dfdfdf">
       <font>
          <Font size="22.0" />
       </font></Label>
-  <Button onAction="#onRunButtonClick" prefHeight="25.0" prefWidth="95.0" style="-fx-border-color: #b500ff; -fx-border-width: 2; -fx-background-color: null;" text="Executar" textFill="#b500ff">
+  <Button onAction="#onRunButtonClick" prefHeight="25.0" prefWidth="95.0" style="-fx-border-color: #6E5375; -fx-border-width: 2; -fx-background-color: #302733;" text="Executar" textFill="WHITE">
       <font>
          <Font name="System Bold" size="12.0" />
       </font></Button>

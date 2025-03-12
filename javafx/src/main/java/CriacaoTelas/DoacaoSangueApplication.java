@@ -7,12 +7,12 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class ConversorTempApplication extends Application {
+public class DoacaoSangueApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("conversortemp-view.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 300, 450);
-        stage.setTitle("Conversor Temp");
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("doacaosangue-view.fxml"));
+        Scene scene = new Scene(fxmlLoader.load(), 475, 350);
+        stage.setTitle("Doação Sangue");
         stage.setScene(scene);
         stage.show();
     }

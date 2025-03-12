@@ -37,11 +37,6 @@ public class ConversorTempController {
                 temperature =  celsius + 273.15;
                 resultText.setText("Conversão: " + temperature + " K");
             }
-            else {
-                System.out.println(radio.getSelectedToggle());
-                System.out.println(kelvin);
-                System.out.println(fahrenheit);
-            }
         }
     }
 }
