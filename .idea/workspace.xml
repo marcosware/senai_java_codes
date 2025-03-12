@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d1f8e99-7799-485d-aa5a-899d0d94302b" name="Changes" comment="Get Set initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Exercicio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Exercicio02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/Getters_Setters/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javafx/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +34,12 @@
     &quot;assignee&quot;: &quot;marcosware&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/marcosware/senai_java_codes",
-    "accountId": "cf3afc25-1a35-4771-baa0-52f63403997c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/marcosware/senai_java_codes&quot;,
+    &quot;accountId&quot;: &quot;cf3afc25-1a35-4771-baa0-52f63403997c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -62,43 +52,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DatasHorarios.executor": "Run",
-    "Application.Ex_04.executor": "Run",
-    "Application.Ex_05.executor": "Run",
-    "Application.Exercicio01.executor": "Run",
-    "Application.Exercicio02.executor": "Run",
-    "Application.Exercicio03.executor": "Run",
-    "Application.Exercicios_CondicaoTernaria.executor": "Run",
-    "Application.Exercicios_LacoDoWhile.executor": "Run",
-    "Application.Exercicios_ListasMatrizesForEach.executor": "Run",
-    "Application.ParImparApplication.executor": "Run",
-    "Application.RevisaoIfElse_01.executor": "Run",
-    "Application.RevisaoIfElse_03.executor": "Run",
-    "Application.RevisaoIfElse_04.executor": "Run",
-    "Application.RevisaoIfElse_05.executor": "Run",
-    "Application.RevisaoIfElse_06.executor": "Run",
-    "Application.RevisaoIfElse_08.executor": "Run",
-    "Application.RevisaoIfElse_09.executor": "Run",
-    "Application.RevisaoIfElse_Basicos.executor": "Run",
-    "Application.RevisaoIfElse_CondicoesStrings.executor": "Run",
-    "Application.RevisaoIfElse_DatasHorarios.executor": "Run",
-    "Application.RevisaoIfElse_DecisoesFinanceiras.executor": "Run",
-    "Application.RevisaoIfElse_DesafiosJogos.executor": "Run",
-    "Application.RevisaoIfElse_MediaNotas.executor": "Run",
-    "Application.RevisaoIfElse_OperacoesMatematicas.executor": "Run",
-    "Application.RevisaoIfElse_SituacoesCotidianas.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Aluno_Noite/Documents/JavaNoite_Marcos/senai_java_codes",
-    "onboarding.tips.debug.path": "C:/Users/Aluno_Noite/IdeaProjects/JavaNoite_Marcos/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DatasHorarios.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_CondicaoTernaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_LacoDoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_ListasMatrizesForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParImparApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_Basicos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_CondicoesStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_DatasHorarios.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_DecisoesFinanceiras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_DesafiosJogos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_MediaNotas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_OperacoesMatematicas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisaoIfElse_SituacoesCotidianas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aluno_Noite/Documents/JavaNoite_Marcos/senai_java_codes&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aluno_Noite/IdeaProjects/JavaNoite_Marcos/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Marcos\IdeaProjects\JavaNoite_Marcos\java" />
