@@ -1,31 +1,43 @@
 package Construtores;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Ex04_Validacao {
     public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        Produto produto;
+        Produto produtoA, produtoB;
         System.out.println("CADASTRO DE PRODUTO");
         System.out.println("(Valor positivo)");
         System.out.print("Nome: ");
         String nome = sc.nextLine();
-        System.out.print("Preço: ");
-        double preco = sc.nextDouble();
-        produto = new Produto(nome, preco);
+        double preco;
+        do{
+            System.out.print("Preço: ");
+            preco = sc.nextDouble();
+            if(preco < 0) {
+                System.out.println("Estamos testando primeiro o valor positivo\nInsira novamente!");
+            }
+        }while(preco < 0);
+        produtoA = new Produto(nome, preco);
         System.out.println("\nProduto cadastrado com sucesso!\n");
-        System.out.println("Nome: " + produto.getNome());
-        System.out.printf("Preço: R$%.2f ", produto.getPreco());
-
+        System.out.println("Nome: " + produtoA.getNome());
+        System.out.printf("Preço: R$%.2f ", produtoA.getPreco());
 
         System.out.println("\n\n(Valor negativo)");
         System.out.print("Nome: ");
         nome = sc.next();
-        System.out.print("Preço: ");
-        preco = sc.nextDouble();
-        Produto produto2 = new Produto(nome, preco);
+        do{
+            System.out.print("Preço: ");
+            preco = sc.nextDouble();
+            if(preco >= 0) {
+                System.out.println("Estamos testando agora o valor negativo\nInsira novamente!");
+            }
+        }while(preco >= 0);
+        produtoB = new Produto(nome, preco);
         System.out.println("\nProduto cadastrado com sucesso!\n");
-        System.out.println("Nome: " + produto2.getNome());
-        System.out.printf("Preço: R$%.2f ", produto2.getPreco());
+        System.out.println("Nome: " + produtoB.getNome());
+        System.out.printf("Preço: R$%.2f ", produtoB.getPreco());
     }
 }
