@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d1f8e99-7799-485d-aa5a-899d0d94302b" name="Changes" comment="Ex04 initial commit">
+    <list default="true" id="3d1f8e99-7799-485d-aa5a-899d0d94302b" name="Changes" comment="Exercicios de Fixação (Classe)">
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/CadastroUsuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/CalcMediaNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/ConversaoStringNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/ConversaoTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/DadosInvalidosException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/DivisaoZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/IdadeInvalidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/IndiceInvalido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/RaizQuadrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/SomaDoisNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/TemperaturaInvalidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/TryCatch/VerificacaoMaioridade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/main/java/Construtores/Ex04_Validacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/Construtores/Ex04_Validacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,43 +65,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DatasHorarios.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios_CondicaoTernaria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios_LacoDoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios_ListasMatrizesForEach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParImparApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_Basicos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_CondicoesStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_DatasHorarios.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_DecisoesFinanceiras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_DesafiosJogos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_MediaNotas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_OperacoesMatematicas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoIfElse_SituacoesCotidianas.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aluno_Noite/Documents/JavaNoite_Marcos/senai_java_codes&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aluno_Noite/IdeaProjects/JavaNoite_Marcos/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DatasHorarios.executor": "Run",
+    "Application.Ex_04.executor": "Run",
+    "Application.Ex_05.executor": "Run",
+    "Application.Exercicio01.executor": "Run",
+    "Application.Exercicio02.executor": "Run",
+    "Application.Exercicio03.executor": "Run",
+    "Application.Exercicios_CondicaoTernaria.executor": "Run",
+    "Application.Exercicios_LacoDoWhile.executor": "Run",
+    "Application.Exercicios_ListasMatrizesForEach.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ParImparApplication.executor": "Run",
+    "Application.RevisaoIfElse_01.executor": "Run",
+    "Application.RevisaoIfElse_03.executor": "Run",
+    "Application.RevisaoIfElse_04.executor": "Run",
+    "Application.RevisaoIfElse_05.executor": "Run",
+    "Application.RevisaoIfElse_06.executor": "Run",
+    "Application.RevisaoIfElse_08.executor": "Run",
+    "Application.RevisaoIfElse_09.executor": "Run",
+    "Application.RevisaoIfElse_Basicos.executor": "Run",
+    "Application.RevisaoIfElse_CondicoesStrings.executor": "Run",
+    "Application.RevisaoIfElse_DatasHorarios.executor": "Run",
+    "Application.RevisaoIfElse_DecisoesFinanceiras.executor": "Run",
+    "Application.RevisaoIfElse_DesafiosJogos.executor": "Run",
+    "Application.RevisaoIfElse_MediaNotas.executor": "Run",
+    "Application.RevisaoIfElse_OperacoesMatematicas.executor": "Run",
+    "Application.RevisaoIfElse_SituacoesCotidianas.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Marcos/IdeaProjects/JavaNoite_Marcos/javafx",
+    "onboarding.tips.debug.path": "C:/Users/Aluno_Noite/IdeaProjects/JavaNoite_Marcos/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Marcos\IdeaProjects\JavaNoite_Marcos\java" />
@@ -217,47 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740331491282</updated>
     </task>
-    <task id="LOCAL-00015" summary="Renaming folder">
+    <task id="LOCAL-00015" summary="Exercicios de Fixação (Classe)">
       <option name="closed" value="true" />
-      <created>1741730996682</created>
+      <created>1741572330727</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1741730996682</updated>
+      <updated>1741572330727</updated>
     </task>
-    <task id="LOCAL-00016" summary="Menu method added">
-      <option name="closed" value="true" />
-      <created>1741818844197</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1741818844197</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Construtores initial commit">
-      <option name="closed" value="true" />
-      <created>1741826637163</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1741826637163</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Construtores Ex03 update">
-      <option name="closed" value="true" />
-      <created>1741910118556</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1741910118556</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Ex04 initial commit">
-      <option name="closed" value="true" />
-      <created>1741910187358</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1741910187358</updated>
-    </task>
-    <option name="localTasksCounter" value="20" />
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,13 +265,8 @@
     <MESSAGE value="Date empty constructor added" />
     <MESSAGE value="Ex04 interval completion" />
     <MESSAGE value="Ex05 completion" />
-    <MESSAGE value="Renaming folder" />
-    <MESSAGE value="Get Set initial commit" />
-    <MESSAGE value="Menu method added" />
-    <MESSAGE value="Construtores initial commit" />
-    <MESSAGE value="Construtores Ex03 update" />
-    <MESSAGE value="Ex04 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex04 initial commit" />
+    <MESSAGE value="Exercicios de Fixação (Classe)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios de Fixação (Classe)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
